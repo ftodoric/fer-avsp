@@ -58,7 +58,7 @@ def hamming_dist(bin_str1, bin_str2):
     return h_dist
 
 
-def main():
+if __name__ == '__main__':
     # get texts
     number_of_texts = int(input())
     hashes = []
@@ -88,6 +88,3 @@ def main():
             if h_dist <= max_distance:
                 results.append(i)
         print(len(results))
-
-
-main()
