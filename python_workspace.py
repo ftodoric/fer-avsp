@@ -1,5 +1,3 @@
-d = {0: 13.12, 3: -1.1111, 2: 2.12}
-
-print(d)
-d = dict(sorted(d.items(), key=lambda item: item[1], reverse=True))
-print(d)
+a = [(1, 11), (2, 22), (3, 33)]
+for i, j in a:
+    print(i, j)
