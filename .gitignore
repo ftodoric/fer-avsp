@@ -3,3 +3,8 @@ __pycache__
 
 # Input Data
 resources/
+
+# Testing modules
+python_workspace.py
+numpy_workspace.py
+performance_testing.py
