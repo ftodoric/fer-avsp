@@ -40,9 +40,6 @@ def node_rank(N, beta, edge_matrix, util_matrix, q, queries):
         S = 0
         for j in range(N):
             sum = 0
-            """ for row_index, row in enumerate(edge_matrix):
-                if j in row:
-                    sum += beta*r[row_index]/len(row) """
             try:
                 for item in util_matrix[j]:
                     sum += beta*r[item[0]]/item[1]
