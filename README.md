@@ -2,7 +2,7 @@
 
 Laboratory assignments of the course "Analysis of Massive Data Sets" at FER.
 
-1. SimHash algorithm & Locality Sensitive Hashing (LSH)
-2. PCY algorithm for finding frequent itemsets
-3. Collaborative Filtering, User-User & Item-item approach
-4. NodeRank algorithm & simple graph search algorithm
+1. _SimHash algorithm & Locality Sensitive Hashing (LSH)_
+2. _PCY algorithm for finding frequent itemsets_
+3. _Collaborative Filtering, User-User & Item-item approach_
+4. _NodeRank algorithm & simple graph search algorithm_
