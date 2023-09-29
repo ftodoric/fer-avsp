@@ -1,4 +1,4 @@
-# Analysis of massive data sets
+# Analysis of massive data sets | FER
 
 Laboratory assignments of the course "Analysis of Massive Data Sets" at FER.
 
